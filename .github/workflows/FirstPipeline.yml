@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-#Docker hub a login ol.
+#Docker hub a login ol
 #Not: eger repository olarak docker hub kullanilacaksa repository ismi belirtilmez
 
       - name: Login to GitHub Container Registry
